@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">MatematicasFacil</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="Titulo_Instrucciones">Instrucciones</string>
+    <string name="cuerpo_instrucciones">Esta aplicación te ayudará a comprender
+        las operaciones matemáticas básicas de nivel primaria. Para ello, encontrarás
+        una serie de ejercicios que tendrás que contestar una a una. La aplicacion evaluará si sabes o no resolver ese tipo de operaciones, si no, te enviara a una ventana donde se te explicará</string>
+    <string name="diagno_titulo">Empecemos con lo básico.</string>
+    <string name="diagno_cuerpo">Responde correctamente las siguientes operaciones</string>
+    <string name="Siguiente">Siguiente</string>
+    <string name="Titulo_diagno">Empecemos con lo básico.</string>
+    <string name="instru_diagno">Responde correctamente las siguientes operaciones</string>
+    <string name="comprobar">comprobar</string>
+
+    <string name="suma">+</string>
+    <string name="resta">-</string>
+    <string name="mult">x</string>
+    <string name="div">÷</string>
+    <string name="igual">=</string>
+    <string name="num">" "</string>
+    <string name="nose">No sé</string>
+    //activity sumar
+    <string name="sumar_titulo">¡Aprenderemos a sumar!</string>
+    <string name="sumar_cuerpo">Vemos que tuviste problemas para sumar, aqui te enseñaremos, pero antes, resuelve estas sencillas operaciones.</string>
+    <string name="sumar_instru"></string>
+    <string name="uno">1</string>
+    <string name="cero">0</string>
+    <string name="tres">3</string>
+    <string name="siete">7</string>
+    <string name="diez">10</string>
+    <string name="cuatro">4</string>
+    <string name="treintasiete">37</string>
+    <string name="dos">2</string>
+    <string name="ocho">8</string>
+    <string name="cuarentados">42</string>
+    <string name="veintiuno">21</string>
+    <string name="seis">6</string>
+    <string name="sesentaseis">66</string>
+    <string name="treintaseis">36</string>
+    <string name="doce">12</string>
+    <string name="cerouno">01</string>
+    <string name="venteocho">28</string>
+    <string name="once">11</string>
+    <string name="setentacuatro">74</string>
+    <string name="cuarentauno">41</string>
+    //activity restar
+    <string name="restar_titulo">¡Aprenderemos a restar!</string>
+    <string name="restar_cuerpo">Vemos que tuviste problemas para restar, aqui te enseñaremos, pero antes, resuelve estas sencillas operaciones.</string>
+    <string name="cinco">5  </string>
+    <string name="cuarentaocho">48</string>
+    <string name="catorce">14</string>
+    <string name="veve">2821</string>
+    <string name="cuatrentanueve">49</string>
+    <string name="treinta">30</string>
+    <string name="cuarentacuatro">44</string>
+    <string name="cuarenta">40</string>
+
+    //activity multiplicar
+    <string name="multiplicar_titulo">¡Aprenderemos a multiplicar!</string>
+    <string name="multiplicar_cuerpo">Vemos que tuviste problemas para multiplicar, aqui te enseñaremos, pero antes, resuelve estas sencillas operaciones.</string>
+    <string name="treintauno">31</string>
+    <string name="cincuentacuatro">54</string>
+    <string name="veinte">20</string>
+    <string name="nueve">9</string>
+    <string name="veintecuatro">24</string>
+    <string name="cientoveintedos">122</string>
+    <string name="trecientoscinco">305</string>
+    <string name="treintacinco">35</string>
+    <string name="cientocincuenta">150</string>
+    <string name="sesenta">60</string>
+    <string name="cientoseis">106</string>
+    <string name="diesciseis">16</string>
+
+    //dividir
+    <string name="dividir_titulo">¡Aprenderemos a dividir!</string>
+    <string name="dividir_cuerpo">Vemos que tuviste problemas para dividir, aqui te enseñaremos, pero antes, resuelve estas sencillas operaciones.</string>
+    <!--string name="diez">10</string-->
+    <string name="cincuenta">50</string>
+    <string name="cuatrocincuenta">450</string>
+    <string name="cientocuarentasiete">147</string>
+    <string name="veintisiete">27</string>
+    <string name="sesentacuatro">64</string>
+    <string name="docepuntocinco">12.5</string>
+    <string name="docientospuntocinco">200.5</string>
+    <string name="cuarentaseispuntocinco">46.5</string>
+
+    <string name="titulo_tutosuma">No estas sumando</string>
+    <string name="explicacion">Lo que estas haciendo no es sumar, aqui te explicamos como.</string>
+    <string name="explicacion2">Recordemos que para hacer una suma, tenemos que CONTAR la union de dos numeros. </string>
+    <string name="explicacion3"></string>
+    <string name="imagen">desmostracion</string>
+    <string name="descripcionproblemauno">Tenemos peras.</string>
+    <string name="descripcionproblemauno_dos">Al sumar 1 pera mas 1 pera no dan 11 peras.</string>
+    <string name="descripcionproblemauno_tres">1 pera + 1 pera  = 2 peras</string>
+    <string name="porejemplo">Por ejemplo:</string>
+    <string name="explica">Entonces, si ahora tenemos 3 manzanas </string>
+    <string name="explica2">y 2 peras</string>
+    <string name="explica3">¿Cuantas frutas tenemos en total?</string>
+    <string name="trintados">32</string>
+    <string name="ope">2 + 3 = </string>
+    <string name="correcto">¡CORRECTO!</string>
+
+    <string name="analisis_sumamulti">En base a tus resultados, vemos que estas multiplicando y no sumando.</string>
+    <string name="analisis_sumamulti2">Recuerda, una suma es CONTAR los numeros que se te muestran u objetos con los que estes trabajando</string>
+    <string name="analisis_ejemplo">Por ejemplo, si tienes que sumar</string>
+    <string name="analisisejemplo2"> 1 + 2</string>
+    <string name="analisis_ejemplo3">Puedes realizar esta suma con los dedos de tus manos</string>
+    <string name="mano_ejemplo">Aqui tenemos 1 dedo</string>
+    <string name="mano_ejemplo2">Aqui tenemos 2 dedos</string>
+    <string name="mano_ejemplo3">1 dedo + 2 dedos =</string>
+    <string name="mano_resultado">¡3 dedos!</string>
+
+    <string name="resta_titu_tuto">No estas restando</string>
+    <string name="resta_subtitulo">Lo que estas haciendo no es restar, aqui te explicamos como.</string>
+    <string name="explica_resta">Recordemos que para realizar una resta tenemos que QUITAR los numeros que se nos muestran a la derecha.</string>
+    <string name="pepe">Pepe tiene 7 Manzanas</string>
+    <string name="maria">Pero Maria le quita 4</string>
+    <string name="pepemaria">¿Cuantas manzanas le quedaron a Pepe?</string>
+    <string name="Explica_pepemaria">Si a pepe le quitamos las manzanas una por una, nos damos cuenta de que Maria solo le dejó 3 manzanas</string>
+
+
+    <string name="multiplicaenseña">Vemos que tienes problemas para multiplicar</string>
+    <string name="multiplicar_tablas">Para poder multiplicar, es preferible que aprendas las tablas de multiplicar, te dejamos aquí las principales para que las domines y puedas poner en practica tus conocimientos más adelante</string>
+    <string name="multiplicar_equipos">Imaginemos que tenemos 3 equipos de 5 personas cada uno,
+        queremos saber cuantas personas hay en total.</string>
+    <string name="Ejemplos_button">Ejemplos</string>
+    <string name="multiplicacioncero">Cabe resaltar que todo numero multiplicado por 0, es igual a 0, ya que el CERO representa un numero que no existe</string>
+
+    <string name="dividir_texto">Al parecer tuviste algunas fallas al momento de dividir, aquí te enseñaremos algunas tecnicas, como vemos que sabes multiplicar sera más sencillo para ti</string>
+    <string name="dividir_texto2">Supongamos que tienes 10 dulces y tienes 5 amigos, quieres repartirles tus dulcen en partes iguales ¿Cuantos tienes que darles? 10÷5=</string>
+    <string name="operacion_dividir1">Para realizar esta operación empezamos a darle un dulce  a cada uno, como vemos que nos sobran dulces, volvemos a darles otro dulce. En total
+        llevan 2 dulces cada uno y ese es el resultado, Podemos comprobarlo con multiplicación: 2 x 5 = 10, el resultado de la multiplicacion debe ser el total de dulces</string>
+    <string name="dividir_texto3">Ahora supongamos que tienes 15 dulces y tienes 3 amigos ¿Cuantos tienes que darles? 15÷3=</string>
+
+
+</resources>

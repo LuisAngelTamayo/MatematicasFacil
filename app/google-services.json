@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "229880034240",
+    "firebase_url": "https://matematicas-935e6.firebaseio.com",
+    "project_id": "matematicas-935e6",
+    "storage_bucket": "matematicas-935e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229880034240:android:bc936e8c9d074b1b",
+        "android_client_info": {
+          "package_name": "dev.tamayoz.com.matematicasfacil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229880034240-684hbjol08jp4gbvul999kqamdlgairb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.tamayoz.com.matematicasfacil",
+            "certificate_hash": "9de2f3f4194a5f1ed14a3a1c5cce7fd2d0214233"
+          }
+        },
+        {
+          "client_id": "229880034240-eb0nlu0e2t6v4fee95kn5hjj6ljjknjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMONQkfdlztwtLUgUbQqVZRB58UvwwLv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229880034240-eb0nlu0e2t6v4fee95kn5hjj6ljjknjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
